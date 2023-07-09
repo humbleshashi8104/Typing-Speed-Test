@@ -23,7 +23,7 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #078ea3;
+  /* background: #015663; */
   /* background: linear-gradient(60deg,purple,rgb(159, 64, 248),orange); */
 }
 body .darkbtn{
@@ -40,7 +40,7 @@ body .darkbtn{
 .wrapper{
   width: 770px;
   padding: 35px;
-  background: #f3f3f3;
+  background: #e9e8e8;
   border-radius: 10px;
   box-shadow: 0 10px 15px rgba(0, 0, 0, 0.05);
   margin-bottom: 120px;
@@ -55,7 +55,7 @@ body .darkbtn{
   padding: 13px 20px 0;
   border-radius: 10px;
   border: 1px solid #b4b1b1;
-  background: #ffffff;  doubt h yha pe mujhe add karne se dark mode kaam nhi kar rha h
+  background: #ffffff; 
 }
 .content-box .typing-text{
   overflow: hidden;
@@ -222,6 +222,6 @@ li:not(:first-child) span{
   color: #fff;
 }
 .dark1{
-  background-color: #242323;
+  background-color: #181717;
   color: #fff;
 }
